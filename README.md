@@ -1,1 +1,1 @@
-# crudAngular
+# CRUD simples desenvolvido em Angular. 
